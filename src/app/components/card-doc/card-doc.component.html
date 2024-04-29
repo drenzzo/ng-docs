@@ -1,16 +1,18 @@
-<div class="col-lg-3 col-xl-4 col-sm-6" *ngFor="let doc of docs">
-    <div class="file-man-box">
-        <a href class="file-close">
-            <i class="fa fa-times-circle"></i>
-        </a>
-        <div class="file-img-box"><img [src]="doc | docImage" alt="icon" />
-        </div>
-        <a href="#" class="file-download">
-            <i class="fa fa-download"></i>
-        </a>
-        <div class="file-man-title">
-            <h5 class="mb-0 text-overflow">{{ doc.filename }}</h5>
-            <p class="mb-0"><small>{{ doc.size }} kb</small></p>
-        </div>
-    </div>
+<pre>{{ doc }}</pre>
+<div class="file-man-box">
+	<a href class="file-close">
+		<i class="fa fa-times-circle"></i>
+	</a>
+	<div class="file-img-box">
+		<img [src]="doc | docImage" alt="icon" />
+	</div>
+	<a href="#" class="file-download">
+		<i class="fa fa-download"></i>
+	</a>
+	<div class="file-man-title">
+		<h5 class="mb-0 text-overflow">{{ doc.filename }}</h5>
+		<p class="mb-0">
+			<small>{{ doc.size }} kb</small>
+		</p>
+	</div>
 </div>
