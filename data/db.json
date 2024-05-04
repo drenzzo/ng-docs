@@ -2,79 +2,79 @@
   "docs": [
     {
       "id": 2014,
-      "ico": "png.svg",
+      "ico": "pdf.png",
       "filename": "file0.doc",
-      "title": "File 0",
+      "title": "Carta Poder Simple",
       "size": "32kb"
     },
     {
       "id": 2015,
-      "ico": "doc.svg",
+      "ico": "doc.png",
       "filename": "file1.doc",
-      "title": "File 1",
+      "title": "Carta de renuncia",
       "size": "33kb"
     },
     {
       "id": 2016,
-      "ico": "xls.svg",
+      "ico": "xls.png",
       "filename": "file2.doc",
-      "title": "File 2",
+      "title": "Contrato por servicios",
       "size": "34kb"
     },
     {
       "id": 2017,
-      "ico": "txt.svg",
+      "ico": "txt.png",
       "filename": "file3.doc",
-      "title": "File 3",
+      "title": "Adenda de extensión de servicios",
       "size": "35kb"
     },
     {
       "id": 2018,
-      "ico": "pdf.svg",
+      "ico": "pdf.png",
       "filename": "file4.doc",
-      "title": "File 4",
+      "title": "Oficio de contratación",
       "size": "36kb"
     },
     {
       "id": 2019,
-      "ico": "doc.svg",
+      "ico": "doc.png",
       "filename": "file5.doc",
-      "title": "File 5",
+      "title": "Informe final de ventas",
       "size": "37kb"
     },
     {
       "id": 2020,
-      "ico": "doc.svg",
+      "ico": "doc.png",
       "filename": "file6.doc",
       "title": "File 6",
       "size": "38kb"
     },
     {
       "id": 2021,
-      "ico": "xls.svg",
+      "ico": "xls.png",
       "filename": "file7.doc",
-      "title": "File 7",
+      "title": "Cálculo de ventas por mes",
       "size": "39kb"
     },
     {
       "id": 2022,
-      "ico": "pdf.svg",
+      "ico": "pdf.png",
       "filename": "file8.doc",
-      "title": "File 8",
+      "title": "Bases de datos para productos",
       "size": "40kb"
     },
     {
       "id": 2023,
-      "ico": "pdf.svg",
+      "ico": "pdf.png",
       "filename": "file9.doc",
-      "title": "File 9",
+      "title": "Proforma de venta de equipo de computo",
       "size": "41kb"
     },
     {
       "id": 2024,
-      "ico": "ppt.svg",
+      "ico": "ppt.png",
       "filename": "file10.doc",
-      "title": "File 10",
+      "title": "Proforma por servicios legales",
       "size": "42kb"
     }
   ]
