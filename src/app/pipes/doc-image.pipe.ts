@@ -8,7 +8,7 @@ import { Doc } from '../interfaces/doc.interface';
 export class DocImagePipe implements PipeTransform {
 
   transform(doc: Doc): string {
-    return `https://coderthemes.com/highdmin/layouts/assets/images/file_icons/${doc.ico}`;
+    return `assets/icons/${doc.ico}`;
   }
 
 }
