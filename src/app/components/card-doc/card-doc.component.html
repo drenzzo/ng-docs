@@ -1,4 +1,4 @@
-<div class="file-man-box">
+<!-- <div class="file-man-box">
 	<h5>{{ doc.title }}</h5>
 	<a href class="file-close">
 		<i class="fa fa-times-circle"></i>
@@ -15,4 +15,31 @@
 			<small>{{ doc.size }}</small>
 		</p>
 	</div>
+</div> -->
+
+<div class="card mb-3">
+	<div class="card-header">
+		<img [src]="doc | docImage" alt="icon" width="20" />
+		{{ doc.title }}
+	</div>
+	<div class="card-body">
+		<h5 class="card-title">Special title treatment</h5>
+		<h6 class="card-subtitle text-muted">Support card subtitle</h6>
+	</div>
+	<div class="file-img-box">
+		<img [src]="doc | docImage" alt="icon" width="64"/>
+	</div>
+	<!-- <div class="card-body">
+		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+			content.</p>
+	</div> -->
+	<div class="card-footer text-muted">
+		<small>
+			{{ doc.filename }} - {{ doc.size }}
+		</small>
+		<a href="#" class="file-download">
+			<i class="fa fa-download"></i>
+		</a>
+	</div>
+
 </div>
