@@ -2,77 +2,77 @@
   "docs": [
     {
       "id": 2014,
-      "ico": "pdf.png",
+      "ico": "pdf.svg",
       "filename": "file0.doc",
       "title": "Carta Poder Simple",
       "size": "32kb"
     },
     {
       "id": 2015,
-      "ico": "doc.png",
+      "ico": "doc.svg",
       "filename": "file1.doc",
       "title": "Carta de renuncia",
       "size": "33kb"
     },
     {
       "id": 2016,
-      "ico": "xls.png",
+      "ico": "xls.svg",
       "filename": "file2.doc",
       "title": "Contrato por servicios",
       "size": "34kb"
     },
     {
       "id": 2017,
-      "ico": "txt.png",
+      "ico": "txt.svg",
       "filename": "file3.doc",
       "title": "Adenda de extensión de servicios",
       "size": "35kb"
     },
     {
       "id": 2018,
-      "ico": "pdf.png",
+      "ico": "pdf.svg",
       "filename": "file4.doc",
       "title": "Oficio de contratación",
       "size": "36kb"
     },
     {
       "id": 2019,
-      "ico": "doc.png",
+      "ico": "doc.svg",
       "filename": "file5.doc",
       "title": "Informe final de ventas",
       "size": "37kb"
     },
     {
       "id": 2020,
-      "ico": "doc.png",
+      "ico": "doc.svg",
       "filename": "file6.doc",
       "title": "File 6",
       "size": "38kb"
     },
     {
       "id": 2021,
-      "ico": "xls.png",
+      "ico": "xls.svg",
       "filename": "file7.doc",
       "title": "Cálculo de ventas por mes",
       "size": "39kb"
     },
     {
       "id": 2022,
-      "ico": "pdf.png",
+      "ico": "pdf.svg",
       "filename": "file8.doc",
       "title": "Bases de datos para productos",
       "size": "40kb"
     },
     {
       "id": 2023,
-      "ico": "pdf.png",
+      "ico": "pdf.svg",
       "filename": "file9.doc",
       "title": "Proforma de venta de equipo de computo",
       "size": "41kb"
     },
     {
       "id": 2024,
-      "ico": "ppt.png",
+      "ico": "ppt.svg",
       "filename": "file10.doc",
       "title": "Proforma por servicios legales",
       "size": "42kb"
