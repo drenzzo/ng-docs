@@ -1,15 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 body {
+  font-size: .9rem;
   margin-top: 20px;
-  background: #dcdcdc;
+  background-color: #f8fafd !important;
 }
 
 .card-box {
   padding: 20px;
-  border-radius: 3px;
+  border-radius: 1rem;
+  border-color: none;
   margin-bottom: 30px;
   background-color: #fff;
 }
+
 
 .file-man-box {
   padding: 20px;
